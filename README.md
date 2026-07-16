@@ -7,7 +7,6 @@ This project performs Exploratory Data Analysis (EDA) on the Airbnb Open Data da
 - Python
 - Jupyter Notebook
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
 
